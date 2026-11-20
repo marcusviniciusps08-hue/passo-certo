@@ -23,7 +23,7 @@ Contém links de afiliado Mercado Livre.
 - [Como escolher mala de viagem: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/passo-certo/guias/como-escolher-mala-de-viagem/)
 - [Malas de viagem até R$ 190: opções e preços](https://marcusviniciusps08-hue.github.io/passo-certo/guias/malas-de-viagem-ate-190/)
 - [Como escolher mochila: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/passo-certo/guias/como-escolher-mochila/)
-- [Mochilas até R$ 80: opções e preços](https://marcusviniciusps08-hue.github.io/passo-certo/guias/mochilas-ate-80/)
+- [Mochilas até R$ 100: opções e preços](https://marcusviniciusps08-hue.github.io/passo-certo/guias/mochilas-ate-100/)
 - [Como escolher tênis: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/passo-certo/guias/como-escolher-tenis/)
 - [Tênis até R$ 250: opções e preços](https://marcusviniciusps08-hue.github.io/passo-certo/guias/tenis-ate-250/)
 
@@ -38,9 +38,10 @@ Contém links de afiliado Mercado Livre.
 - [Bolsa Mala De Mão 10kg Feminina De Bordo vs Mala de Bordo Rígida ABS Preto Sweet Studio: comparativo](https://marcusviniciusps08-hue.github.io/passo-certo/comparativos/bolsa-mala-de-mao-10kg-feminina-de-bordo-vs-mala-de-bordo-rigida-abs-preto-sweet-studio/)
 - [Mochila Hidratação Tática Com Refil D'água 3 Litros vs Mochila Reforçada E Impermeável Para Viagem Mochila Preto: comparativo](https://marcusviniciusps08-hue.github.io/passo-certo/comparativos/mochila-hidratacao-tatica-com-refil-d-agua-3-litros-vs-mochila-reforcada-e-impermeavel-par/)
 - [Mochila jiesipote-9242 À Prova D'água Reforçada Expansível Cor vs Mochila Para Notebook Impermeável com Porta USB e: comparativo](https://marcusviniciusps08-hue.github.io/passo-certo/comparativos/mochila-jiesipote-9242-a-prova-d-agua-reforcada-expansivel-cor-vs-mochila-para-notebook-im/)
+- [Mochila Tática Masculina Militar 50L Impermeável Reforçada Grande vs Mochila Viagem Feminina Masculina Para Notebook Executiva Cor: comparativo](https://marcusviniciusps08-hue.github.io/passo-certo/comparativos/mochila-tatica-masculina-militar-50l-impermeavel-reforcada-grande-vs-mochila-viagem-femini/)
 - [Tênis Feminino Vili Olimp Caminhada Academia Confortável vs Vans SK8-Hi Adultos: comparativo](https://marcusviniciusps08-hue.github.io/passo-certo/comparativos/tenis-feminino-vili-olimp-caminhada-academia-confortavel-vs-vans-sk8-hi-adultos/)
 - [Vans Old Skool Adulto Unissex vs Tênis Olympikus Atmos Feminino: comparativo](https://marcusviniciusps08-hue.github.io/passo-certo/comparativos/vans-old-skool-adulto-unissex-vs-tenis-olympikus-atmos-feminino/)
-- [Tênis Olympikus Marte vs Tênis Vl 2500 Rainha: comparativo](https://marcusviniciusps08-hue.github.io/passo-certo/comparativos/tenis-olympikus-marte-vs-tenis-vl-2500-rainha/)
+- [Tênis Olympikus Marte vs Vans Old Skool Masculino Adultos: comparativo](https://marcusviniciusps08-hue.github.io/passo-certo/comparativos/tenis-olympikus-marte-vs-vans-old-skool-masculino-adultos/)
 
 ## Sobre
 - [Sobre e afiliação](https://marcusviniciusps08-hue.github.io/passo-certo/sobre/)
